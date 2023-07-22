@@ -1,0 +1,11 @@
+// This is a single java projram.
+// FileName : "Hellorld.java".
+ pulic class Hello
+{
+  // your  program begins with a call to main().
+ // prints "hello,world' to the terminal window.
+ public static void main(string args[])
+  {
+    system.out.println("Hello,World");
+   }
+}
